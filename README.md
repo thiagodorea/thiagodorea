@@ -20,7 +20,8 @@ Estou sempre buscando aprender e me atualizar com as últimas tecnologias. Atual
 
 
 ## 👨‍💻 Projetos
-Alguns dos projetos interessantes em que trabalhei:
+Alguns dos projetos interessantes em que trabalhei: 
+-OBS: os projetos apresentaram erro pois no momento não estão com o Back End hospedados.
 
 1. 🌐 WhichMovie (https://github.com/thiagodorea/whichmovie)
    - Sistema de qualificação de filmes.
@@ -28,7 +29,11 @@ Alguns dos projetos interessantes em que trabalhei:
 
 2. 🚀 Pesquisa (https://github.com/thiagodorea/apppesquisa)
    - Sistema de pesquisa de preferências.
-   - Tecnologias utilizadas: REACT JAVA SPRING BOOT.
+   - Tecnologias utilizadas: REACT, JAVA, SPRING BOOT.
+  
+3. 🚀 (https://github.com/thiagodorea/booking)
+   - Sistema de Reserva de hotel.
+   - Tecnologias utilizadas: REACT VITE, JAVA, SPRING BOO, AWS.
 
 
 ## ⚡ Estatísticas do GitHub
