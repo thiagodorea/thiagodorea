@@ -31,7 +31,7 @@ Alguns dos projetos interessantes em que trabalhei:
    - Sistema de pesquisa de preferências.
    - Tecnologias utilizadas: REACT, JAVA, SPRING BOOT.
   
-3. 🚀 (https://github.com/thiagodorea/booking)
+3. 🚀 Booking (https://github.com/thiagodorea/booking)
    - Sistema de Reserva de hotel.
    - Tecnologias utilizadas: REACT VITE, JAVA, SPRING BOO, AWS.
 
